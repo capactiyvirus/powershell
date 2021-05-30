@@ -81,6 +81,7 @@ Get-Command * gives us all the commands we can run on the device
 Get-Command *process* gives us all the commands for the current processes
 
 
-The 3 main command we will need to use powershell
- - 
+The 2 main command we will need to use powershell
+ - Get-Command
+ - Get-Help 
 
